@@ -1,0 +1,15 @@
+{
+   "Paint" : [
+      {
+         "LvsR" : 0,
+         "POINT:pBeg.x" : 0,
+         "POINT:pBeg.y" : 0,
+         "POINT:pEnd.x" : 0,
+         "POINT:pEnd.y" : 0,
+         "TvsB" : 0,
+         "cr" : 0,
+         "fOption" : 1005,
+         "iWidth" : 1
+      }
+   ]
+}

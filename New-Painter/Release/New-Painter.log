@@ -1,0 +1,40 @@
+﻿生成启动时间为 2018/4/27 16:05:24。
+     1>项目“F:\work\test\New-Painter\New-Painter\New-Painter.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\New-Painter.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "New-Painter.cpp"
+         New-Painter.cpp
+     1>New-Painter.cpp(75): warning C4101: “rect”: 未引用的局部变量
+     1>New-Painter.cpp(140): warning C4101: “rc”: 未引用的局部变量
+     1>New-Painter.cpp(532): warning C4018: “<”: 有符号/无符号不匹配
+     1>New-Painter.cpp(343): warning C4101: “y”: 未引用的局部变量
+     1>New-Painter.cpp(343): warning C4101: “x”: 未引用的局部变量
+     1>New-Painter.cpp(343): warning C4101: “i”: 未引用的局部变量
+     1>New-Painter.cpp(336): warning C4101: “ptRight”: 未引用的局部变量
+     1>New-Painter.cpp(333): warning C4101: “rcRight”: 未引用的局部变量
+     1>New-Painter.cpp(822): warning C4101: “hdc”: 未引用的局部变量
+     1>New-Painter.cpp(1010): warning C4101: “color”: 未引用的局部变量
+     1>New-Painter.cpp(1171): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>New-Painter.cpp(1172): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>New-Painter.cpp(1173): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdlib.h(937) : 参见“itoa”的声明
+     1>New-Painter.cpp(1175): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 参见“strcat”的声明
+     1>New-Painter.cpp(1176): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 参见“strcat”的声明
+     1>New-Painter.cpp(1177): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 参见“strcat”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\work\test\New-Painter\Release\New-Painter.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\work\test\New-Painter\Release\New-Painter.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\work\test\New-Painter\Release\New-Painter.lib" /MACHINE:X86 /SAFESEH "Release\New-Painter.res"
+         Release\DIBFile.obj
+         "Release\New-Painter.obj"
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         New-Painter.vcxproj -> F:\work\test\New-Painter\Release\New-Painter.exe
+     1>已完成生成项目“F:\work\test\New-Painter\New-Painter\New-Painter.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.45

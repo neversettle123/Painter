@@ -1,0 +1,48 @@
+﻿生成启动时间为 2018/5/27 15:51:33。
+     1>项目“C:\Users\LOVE\Desktop\New-Painter\New-Painter\New-Painter.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\LOVE\Desktop\New-Painter\New-Painter" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\New-Painter.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "New-Painter.cpp"
+         New-Painter.cpp
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(443): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(171): warning C4101: “ps”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(489): warning C4101: “ps”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(491): warning C4101: “iPaintYBeg”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(491): warning C4101: “iPaintXBeg”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(487): warning C4101: “hdc”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(710): warning C4101: “rect”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(710): warning C4101: “rcRight”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1077): warning C4101: “xPos”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1077): warning C4101: “yPos”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1231): warning C4101: “hdc”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1556): warning C4101: “pt”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1659): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1699): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1796): warning C4101: “color”: 未引用的局部变量
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1893): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1894): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1895): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(937) : 参见“itoa”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1897): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1898): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1899): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(2064): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(2115): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(2123): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\love\desktop\new-painter\new-painter\new-painter.cpp(1062): warning C4700: 使用了未初始化的局部变量“hBitmap2”
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LOVE\Desktop\New-Painter\Debug\New-Painter.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\LOVE\Desktop\New-Painter\New-Painter" json_vc71_libmtd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LOVE\Desktop\New-Painter\Debug\New-Painter.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LOVE\Desktop\New-Painter\Debug\New-Painter.lib" /MACHINE:X86 "Debug\New-Painter.res"
+         Debug\DIBFile.obj
+         "Debug\New-Painter.obj"
+         Debug\stdafx.obj
+         New-Painter.vcxproj -> C:\Users\LOVE\Desktop\New-Painter\Debug\New-Painter.exe
+     1>已完成生成项目“C:\Users\LOVE\Desktop\New-Painter\New-Painter\New-Painter.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.92

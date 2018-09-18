@@ -1,0 +1,59 @@
+{
+   "Paint" : [
+      {
+         "LvsR" : 0,
+         "POINT:pBeg.x" : 0,
+         "POINT:pBeg.y" : 0,
+         "POINT:pEnd.x" : 0,
+         "POINT:pEnd.y" : 0,
+         "TvsB" : 0,
+         "cr" : 0,
+         "fOption" : 1005,
+         "iWidth" : 1
+      },
+      {
+         "LvsR" : 1,
+         "POINT:pBeg.x" : 190,
+         "POINT:pBeg.y" : 108,
+         "POINT:pEnd.x" : 505,
+         "POINT:pEnd.y" : 384,
+         "TvsB" : 1,
+         "cr" : 10766755,
+         "fOption" : 5,
+         "iWidth" : 8
+      },
+      {
+         "LvsR" : 1,
+         "POINT:pBeg.x" : 400,
+         "POINT:pBeg.y" : 107,
+         "POINT:pEnd.x" : 738,
+         "POINT:pEnd.y" : 379,
+         "TvsB" : 0,
+         "cr" : 5733049,
+         "fOption" : 5,
+         "iWidth" : 8
+      },
+      {
+         "LvsR" : 1,
+         "POINT:pBeg.x" : 478,
+         "POINT:pBeg.y" : 60,
+         "POINT:pEnd.x" : 857,
+         "POINT:pEnd.y" : 315,
+         "TvsB" : 1,
+         "cr" : 969215,
+         "fOption" : 5,
+         "iWidth" : 8
+      },
+      {
+         "LvsR" : 1,
+         "POINT:pBeg.x" : 463,
+         "POINT:pBeg.y" : 178,
+         "POINT:pEnd.x" : 769,
+         "POINT:pEnd.y" : 517,
+         "TvsB" : 0,
+         "cr" : 13217535,
+         "fOption" : 5,
+         "iWidth" : 8
+      }
+   ]
+}
